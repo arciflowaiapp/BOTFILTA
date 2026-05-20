@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BOTFILTA AI
 
 Premium AI-powered WhatsApp CRM + AI Assistant for businesses.
@@ -88,3 +89,6 @@ https://your-domain.com/api/whatsapp/webhook
 ## License
 
 Proprietary — BOTFILTA AI
+=======
+# BOTFILTA
+>>>>>>> c6e00268d3e4c067f2eebafc62f71c01d99f19d4
