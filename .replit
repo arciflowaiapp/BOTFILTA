@@ -36,3 +36,13 @@ externalPort = 80
 [[ports]]
 localPort = 5000
 externalPort = 5000
+
+[userenv]
+
+[userenv.shared]
+NEXT_PUBLIC_SUPABASE_URL = "https://cdhcbtzllnvaguzgfdum.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY = "sb_publishable_jRErUONVEx0Qo2XuY_qzlg_PZdTIxHv"
+WHATSAPP_PHONE_NUMBER_ID = "1057858270755305"
+WHATSAPP_BUSINESS_ACCOUNT_ID = "979047585101406"
+WHATSAPP_VERIFY_TOKEN = "botfilta_webhook_verify_2024"
+NEXT_PUBLIC_APP_URL = "http://localhost:5000"
